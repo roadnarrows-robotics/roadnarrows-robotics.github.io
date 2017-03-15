@@ -25,33 +25,24 @@ RoadNarrows grew to 13 employees in 2013, including a mix of part-time, full-tim
 In the fall of 2014, RoadNarrows down-sized their staff and business and focused solely on their Hekateros robotic manipulator and Laelaps product line, while continuing to provide 3rd party robots, sensors, and parts from their distribution partners. RoadNarrows moved their headquarters to Boulder, Colorado from November 2014 through 2016. At the end of 2016, RoadNarrows moved the headquarters back to Loveland, Colorado. 
 
 
-RoadNarrows’ Manufactured Products
+### RoadNarrows’ Manufactured Products
 
-RoboSight™ and CogniBoost™
+#### RoboSight™ and CogniBoost™
 RoboSight™ was developed by RoadNarrows in 2008. It is a small sensor module which includes a simple camera integrated with a CogniMem™ neural network chip for easy training and control applications. It can be used stand-alone or in conjunction with a controlling computer. The CogniMem™ neural network chip was developed by General Vision Inc. of Petaluma, CA. RoadNarrows developed a simple serial command-level embedded API to manage the CogniMem chip functions. 
 
 CogniBoost™ was developed as a computer peripheral module similar to RoboSight, but with a USB instead of a serial interface, and no camera. Instead, a host computer provides the data input, either from a camera or other types of data sets to feed to/from the CogniMem chip.  Both products have full software API tools developed by RoadNarrows. In addition, RoboRealm Inc (founded by Steven Gentner) provided a high-level GUI interface to the two products. 
 
 RoboSight and CogniBoost are discontinued products and are no longer manufactured by RoadNarrows. 
 
-SkewlZone™ 
+#### SkewlZone™ 
 SkewlZone™ was a family of products to make off-the shelf legged robots “intelligent” for purposes of STEM teaching and research. It was a collaboration between RoadNarrows and Southern Illinois University Edwardsville (SIUE) and partially funded by the National Science Foundation STTR Phase I and II grants.  Hardware products included a customized embedded computer board running Linux, smart foot sensors, hands with sensors, a gyroscope/accelerometer board, and sensor interface board. The software architecture and command and control messaging API were developed by RoadNarrows. This software package is named BotSense. The higher level teaching and research applications were developed by SIUE and used the Tekkotsu robotic software platform developed by Carnegie Mellon University. One of the goals of the project was to encourage and promote open source, standard, modular software and hardware environment. 
 
-Kuon™ and Laelaps™
+#### Kuon™ and Laelaps™
 RoadNarrows designed and manufactured a rugged outdoor wheeled robot with full integration of an embedded computer, sensors, and motor controllers. With Robot Operating System (ROS) now mature and available to the open-source community, RoadNarrows’ evolved their BotSense architecture to include support for ROS, which opened up the access to ROS-supported higher-level applications developed by the community.  Laelaps is a miniature version of Kuon, with the same hardware and software infrastructure support. 
 
-Hekateros™
+#### Hekateros™
 Hekateros is a 1 meter long robotic manipulator designed and manufactured by RoadNarrows. It was developed as a response to the gap in affordable, capable intelligent research robotic arms. The hardware and software architectures evolved from the SkewlZone project and shared common processing hardware with the Laelaps and Kuon projects, including full ROS support. Hekateros was first introduced to the public during the 2011 Advanced Association of Artificial Intelligence (AAAI) Small-Scale Manipulation Challenge: Robotic Chess held in San Francisco. 
 
-Future
+#### Future
 RoadNarrows is currently focusing on 3D imaging applications, software development for intelligent systems, and other artificial intelligence research and related development initiatives. The company continues to provide professional robotics equipment and software from their partners to academic institutions around the world.
 
-See Also
-ROS
-Robotics
-Robot Manipulators
-Github
-References
-
-
-External Links
