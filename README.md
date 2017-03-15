@@ -43,6 +43,6 @@ RoadNarrows designed and manufactured a rugged outdoor wheeled robot with full i
 #### Hekateros™
 Hekateros is a 1 meter long robotic manipulator designed and manufactured by RoadNarrows. It was developed as a response to the gap in affordable, capable intelligent research robotic arms. The hardware and software architectures evolved from the SkewlZone project and shared common processing hardware with the Laelaps and Kuon projects, including full ROS support. Hekateros was first introduced to the public during the 2011 Advanced Association of Artificial Intelligence (AAAI) Small-Scale Manipulation Challenge: Robotic Chess held in San Francisco. 
 
-#### Future
+### Future
 RoadNarrows is currently focusing on 3D imaging applications, software development for intelligent systems, and other artificial intelligence research and related development initiatives. The company continues to provide professional robotics equipment and software from their partners to academic institutions around the world.
 
