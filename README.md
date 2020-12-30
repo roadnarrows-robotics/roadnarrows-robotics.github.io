@@ -1,12 +1,12 @@
 ## RoadNarrows LLC
 
-RoadNarrows LLC (“RoadNarrows Robotics”) is a small robotics and intelligent systems company located in Loveland, Colorado.  The company develops software platforms using artificial intelligence techniques for advanced robotics research applications, in particular, hybrid robot collaboration and manipulation in semi-unstructured environments. This includes vision, 3D sensing, sensor networks, neural networks, genetic algorithms, multi-agent cooperation, and parallel, distributed systems. 
+RoadNarrows LLC (“RoadNarrows Robotics”) was a small robotics and intelligent systems company located in Loveland, Colorado.  The company developed software platforms using artificial intelligence techniques for advanced robotics research applications, in particular, hybrid robot collaboration and manipulation in semi-unstructured environments. This included vision, 3D sensing, sensor networks, neural networks, genetic algorithms, multi-agent cooperation, and parallel, distributed systems. 
 
-RoadNarrows sales division has distribution partnerships with several Swiss robotics companies, namely K-Team S.A., makers of the Khepera robot line, GCTronic S.A., manufacturer of the open-source epuck and the elisa robot, and Cyberbotics, creators of Webots software. 
+RoadNarrows sales division had distribution partnerships with several Swiss robotics companies, namely K-Team S.A., makers of the Khepera robot line, GCTronic S.A., manufacturer of the open-source epuck and the elisa robot, and Cyberbotics, creators of Webots software. 
 
 ### History
 
-RoadNarrows was founded by Robin D. Knight and Kim M. Wheeler in 2002. Ms. Wheeler was the CEO from January 2002 to January 2014.  Mr. Knight was the CTO during this period. As of January 2014, Robin Knight performed both the CTO as well as the CEO functions. Kim Wheeler presently acts as COO.
+RoadNarrows was founded by Robin D. Knight and Kim M. Wheeler in 2002. Ms. Wheeler was the CEO from January 2002 to January 2014.  Mr. Knight was the CTO during this period. As of January 2014, Robin Knight performed both the CTO as well as the CEO functions. 
 
 Kim Wheeler is a graduate from the McGill Centre for Intelligent Machines (M.Sc. EE), and Robin Knight studied applied mathematics and computational systems at University of California, Santa Barbara (M.Sc.). Prior to founding RoadNarrows, both Robin Knight and Kim Wheeler were part of Qualcomm’s CDMA engineering staff. Robin Knight had also worked at Bell Labs, and Kim Wheeler worked on the Mars Observer Camera navigation software with Malin Space Science Systems.
 
@@ -22,7 +22,7 @@ RoadNarrows was awarded a Phase I SBIR from the National Institute of Standards 
 
 RoadNarrows grew to 13 employees in 2013, including a mix of part-time, full-time, and contract staff. Research and development work and intellectual property seeded by the founders, grants, sales, and contracts contributed to further development work with several startup ventures. In addition, RoadNarrows developed several of their own robotics systems products that were sold world-wide to academic institutions. 
 
-In the fall of 2014, RoadNarrows down-sized their staff and business and focused solely on their Hekateros robotic manipulator and Laelaps product line, while continuing to provide 3rd party robots, sensors, and parts from their distribution partners. RoadNarrows moved their headquarters to Boulder, Colorado from November 2014 through 2016. At the end of 2016, RoadNarrows moved the headquarters back to Loveland, Colorado. 
+In the fall of 2014, RoadNarrows down-sized their staff and business and focused solely on their Hekateros robotic manipulator and Laelaps product line, while continuing to provide 3rd party robots, sensors, and parts from their distribution partners. RoadNarrows moved their headquarters to Boulder, Colorado from November 2014 through 2016. At the end of 2016, RoadNarrows moved the headquarters back to Loveland, Colorado and provided remote sales and support. At the end of 2020, RoadNarrows officially dissolved the business. Existing academic and startup customers will continue to be supported through 2020 and 2021 in collaboration with partners and suppliers. 
 
 
 ### RoadNarrows’ Manufactured Products
@@ -43,6 +43,5 @@ RoadNarrows designed and manufactured a rugged outdoor wheeled robot with full i
 #### Hekateros™
 Hekateros is a 1 meter long robotic manipulator designed and manufactured by RoadNarrows. It was developed as a response to the gap in affordable, capable intelligent research robotic arms. The hardware and software architectures evolved from the SkewlZone project and shared common processing hardware with the Laelaps and Kuon projects, including full ROS support. Hekateros was first introduced to the public during the 2011 Advanced Association of Artificial Intelligence (AAAI) Small-Scale Manipulation Challenge: Robotic Chess held in San Francisco. 
 
-### Future
-RoadNarrows is currently focusing on 3D imaging applications, software development for intelligent systems, and other artificial intelligence research and related development initiatives. The company continues to provide professional robotics equipment and software from their partners to academic institutions around the world.
+
 
