@@ -1,4 +1,7 @@
-## RoadNarrows LLC
+## RoadNarrows LLC (2002 - 2020)
+
+&nbsp;&nbsp;_It has been quite the journey, but now is the time to explore
+new frontiers._
 
 RoadNarrows LLC (“RoadNarrows Robotics”) is a small robotics and intelligent systems company located in Loveland, Colorado.  The company develops software platforms using artificial intelligence techniques for advanced robotics research applications, in particular, hybrid robot collaboration and manipulation in semi-unstructured environments. This includes vision, 3D sensing, sensor networks, neural networks, genetic algorithms, multi-agent cooperation, and parallel, distributed systems. 
 
